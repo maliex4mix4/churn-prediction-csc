@@ -1,0 +1,20 @@
+{
+    "Tenure": [10], 
+    "PreferredLoginDevice": ["Computer"], 
+    "CityTier": ["over 15 mln"], 
+    "WarehouseToHome": [22],
+    "PreferredPaymentMode": ["E wallet"], 
+    "Gender": ["Female"], 
+    "HourSpendOnApp": [4],
+    "NumberOfDeviceRegistered": [1], 
+    "PreferedOrderCat": ["Laptop & Accessory"], 
+    "SatisfactionScore": [1],
+    "MaritalStatus": ["Married"], 
+    "NumberOfAddress": [1], 
+    "Complain": [1],
+    "OrderAmountHikeFromlastYear": [3], 
+    "CouponUsed": [1], 
+    "OrderCount": [2],
+    "DaySinceLastOrder": [19], 
+    "CashbackAmount": [0]
+}
